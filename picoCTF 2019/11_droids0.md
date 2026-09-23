@@ -12,8 +12,8 @@ Hard
 by Jason
 picoCTF 2019
 
-Where do droid logs go. Check out this file
-.```
+Where do droid logs go. Check out this file.
+```
 
 <br>
 
